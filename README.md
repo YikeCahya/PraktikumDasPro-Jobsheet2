@@ -1,2 +1,2 @@
 # PraktikumDasPro-Jobsheet2
-Repositoriku yang pertama
+Hello Github, ini adalah repository pertama saya.
